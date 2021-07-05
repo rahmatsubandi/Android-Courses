@@ -1,0 +1,12 @@
+RANDOM:
+
+https://stackoverflow.com/questions/57868282/cannot-resolve-symbol-activitycompat-and-content
+
+------------------------------------------------------------------------------------------------
+
+MAPS:
+
+https://medium.com/@rizal_hilman/bermain-google-maps-api-android-kuy-bikin-aplikasi-kayak-go-jek-belajarapi-20b004d6abdf
+
+
+https://github.com/drawrs/google-apis-app-like-gojek
